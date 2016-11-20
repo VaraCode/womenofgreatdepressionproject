@@ -1,0 +1,92 @@
+NOTES:
+
+
+
+Gallery, slider, animated, research:
+
+Gallery/Photo options:
+http://sandbox.scriptiny.com/javascript-slideshow/
+
+http://unitegallery.net/
+
+
+Animated Image gallery: (Possibly substitute for migrant homes page)
+http://www.onextrapixel.com/examples/animated-image-gallery-using-html-and-css3/
+
+Jquery Mosaic Flow:
+http://sapegin.github.io/jquery.mosaicflow/
+
+Bootstrap Gallery:
+https://mobirise.com/bootstrap-gallery/
+
+3D Carousel:
+https://codepen.io/dudleystorey/pen/kiajB
+
+Collage- jQuery:
+http://collageplus.edlea.com/
+
+http://line25.com/tutorials/how-to-create-a-pure-css-polaroid-photo-gallery
+
+Covering Bad- 
+"Put two images on top of each other, and drag to slowly reveal the one underneath."
+https://github.com/seyedi/Covering-Bad
+https://codepen.io/seyedi/pen/tJzav
+
+Slipover jQuery plug in:
+http://jquery-plugins.net/sliphover-direction-aware-hover-animation-to-images
+https://github.com/wayou/SlipHover/
+http://wayou.github.io/SlipHover/
+
+jQuery shuffle images:
+http://www.thepetedesign.com/demos/shuffle-images_demo.html
+http://www.onextrapixel.com/2014/06/11/display-shuffle-images-in-several-ways-with-jquery-shuffle-images-js/
+https://github.com/peachananr/shuffle-images
+
+http://unitegallery.net/index.php?page=documentation#documenter_cover
+
+Free jQuery image sliders:
+https://dcrazed.com/free-responsive-jquery-image-sliders/
+
+StackSlider:
+http://tympanus.net/Development/StackSlider/
+https://github.com/codrops/StackSlider/commit/5a348cd723b530cdefca154c1388bdf37945f295
+http://tympanus.net/codrops/2012/12/03/stackslider-a-fun-3d-image-slider/
+
+Scattered Polaroids Gallery:
+http://tympanus.net/codrops/2014/01/28/scattered-polaroids-gallery/
+https://github.com/codrops/ScatteredPolaroidsGallery
+
+To experiment with later (not this project):
+https://dev7studios.com/lean-slider/
+
+Interesting jQuery plugin flip:
+http://nnattawat.github.io/flip/
+
+Making carousel responsive bootstrap:
+http://stackoverflow.com/questions/25047333/how-to-make-images-in-bootstrap-carousel-responsive
+
+http://bootsnipp.com/snippets/featured/simple-responsive-carousel
+
+
+
+
+                
+ Bootstrap Typography:
+ 
+ http://v4-alpha.getbootstrap.com/content/typography/#blockquotes 
+ 
+ 
+ ONGOING NOTES:
+ Research Sources:
+ https://archive.org/details/cabeuroh_000012
+ https://books.google.com/books?id=wd0lAAAAQBAJ&lpg=PA1&dq=dorothea%20lange&pg=PA8#v=onepage&q=dorothea%20lange&f=false
+ 
+GIT HUB TUTORIAL:
+gh pages
+
+ideas of where to host: dreamhost
+
+tar file- good for mac/unix
+
+
+
